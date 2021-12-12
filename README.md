@@ -2,10 +2,7 @@
 
 Scripts R et données du Groupe C
 
-* Graceffa, Pierre
-* Jakoniuk, Jakub
-* Lanthiez, Thibault
-* Mainus, David
-
-
-
+* Pierre Graceffa
+* Jakub Jakoniuk 
+* Thibault Lanthiez
+* David Mainus
